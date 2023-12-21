@@ -10,4 +10,3 @@ class Produto {
         this.valor = produtoValor;
     }
 }
-//# sourceMappingURL=primeiro_codigo.js.map
